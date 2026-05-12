@@ -1,0 +1,15 @@
+{
+    "asset": "0a2cbd2a8bd169146b1fc9c38c47c2de",
+    "fileName": "019e1d83-0d69-7349-94e5-f0f97638245f.wav",
+    "prompt": "Short, cute, cartoonish zebra whinny, processed game sound effect, 0.6 seconds long.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

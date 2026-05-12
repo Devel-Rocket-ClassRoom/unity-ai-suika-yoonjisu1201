@@ -33,7 +33,7 @@ namespace AnimalMerge
             if (scoreText)
                 scoreText.text = score.ToString("N0");
             if (bestScoreText)
-                bestScoreText.text = $"BEST {best:N0}";
+                bestScoreText.text = $"{best:N0}";
         }
 
         public void UpdateNextPreviews(AnimalData next, AnimalData afterNext)
@@ -42,12 +42,18 @@ namespace AnimalMerge
             SetPreview(afterNextImage, afterNextNameText, afterNext);
         }
 
-        private void SetPreview(Image img, TextMeshProUGUI label, AnimalData data)
+        private void SetPreview(Image panelImg, TextMeshProUGUI label, AnimalData data)
         {
-            if (img)
+            if (panelImg)
             {
-                img.sprite = data.sprite != null ? data.sprite : circleSprite;
-                img.color = data.sprite != null ? Color.white : data.color;
+                // 패널(부모)의 자식 Image가 동물 미리보기, 없으면 자신에 표시
+                Image animalImg =
+                    panelImg.transform.childCount > 0
+                        ? panelImg.transform.GetChild(0).GetComponent<Image>()
+                        : null;
+                Image target = animalImg != null ? animalImg : panelImg;
+                target.sprite = data.sprite != null ? data.sprite : circleSprite;
+                target.color = data.sprite != null ? Color.white : data.color;
             }
             if (label)
                 label.text = data.animalName;

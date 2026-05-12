@@ -1,0 +1,15 @@
+{
+    "asset": "4f65ed0a124ce0c4ca7189697a9e18c8",
+    "fileName": "019e1e1a-0d74-7176-885a-04923ecd6fc2.wav",
+    "prompt": "A single, clear, cute baby sound book style pig 'oink', toy-like, friendly and cheerful, high quality processed for children's educational toys, brief and crisp, recognizable cartoon pig sound, no background noise",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

@@ -1,0 +1,15 @@
+{
+    "asset": "15978c5ae432e9e4c99f1e18f845e54f",
+    "fileName": "019e1d83-072a-70cc-8a9f-45b0fcf73115.wav",
+    "prompt": "Short, cute, cartoonish lion roar, processed game sound effect, 0.7 seconds long.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

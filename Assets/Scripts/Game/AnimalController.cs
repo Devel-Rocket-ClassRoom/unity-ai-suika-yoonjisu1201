@@ -9,7 +9,7 @@ namespace AnimalMerge
         public bool IsDropped { get; private set; }
 
         // 투하 직후 1.5초 유예 — 낙하 중 데드라인 통과 오탐 방지
-        public bool IsEligibleForGameOver => IsDropped && Time.time - droppedTime > 1.5f;
+        public bool IsEligibleForGameOver => IsDropped && Time.time - droppedTime > 0.5f;
 
         private bool isMerging;
         private float droppedTime;
@@ -31,7 +31,7 @@ namespace AnimalMerge
             sr.sortingOrder = 1;
 
             var col = GetComponent<CircleCollider2D>();
-            col.radius = 0.5f;
+            col.radius = data.sprite != null ? data.sprite.bounds.extents.x : 0.5f;
             if (sharedMat == null)
                 sharedMat = new PhysicsMaterial2D("Animal") { friction = 0.2f, bounciness = 0.1f };
             col.sharedMaterial = sharedMat;
@@ -42,7 +42,7 @@ namespace AnimalMerge
             rb.constraints = RigidbodyConstraints2D.None; // 회전 허용 → 굴러가는 물리
             rb.simulated = false;
 
-            transform.localScale = Vector3.one * animalData.radius * 2f;
+            transform.localScale = Vector3.one * animalData.radius * 1.4f;
         }
 
         public void Drop()

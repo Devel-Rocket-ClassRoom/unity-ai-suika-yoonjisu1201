@@ -1,0 +1,15 @@
+{
+    "asset": "4517e5791f4e6074d8971ce0510e9c4c",
+    "fileName": "019e1d81-72b5-7b05-bc3a-52d066456751.wav",
+    "prompt": "Short, cute, cartoonish baby chick chirp sound effect, 'piyak', processed game sound, clear and high-pitched, 0.5 seconds long.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

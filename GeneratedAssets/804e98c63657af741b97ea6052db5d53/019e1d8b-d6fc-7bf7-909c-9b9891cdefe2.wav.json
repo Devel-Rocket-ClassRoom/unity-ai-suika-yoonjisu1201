@@ -1,0 +1,15 @@
+{
+    "asset": "804e98c63657af741b97ea6052db5d53",
+    "fileName": "019e1d8b-d6fc-7bf7-909c-9b9891cdefe2.wav",
+    "prompt": "Short, snappy, 'bubble' pop sound effect for a casual game. Processed, clean, bouncy, 0.2 seconds long. Non-animal sound.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

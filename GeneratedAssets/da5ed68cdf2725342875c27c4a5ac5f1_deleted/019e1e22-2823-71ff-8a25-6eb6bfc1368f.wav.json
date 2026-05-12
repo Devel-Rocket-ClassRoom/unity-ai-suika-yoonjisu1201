@@ -1,0 +1,15 @@
+{
+    "asset": "da5ed68cdf2725342875c27c4a5ac5f1",
+    "fileName": "019e1e22-2823-71ff-8a25-6eb6bfc1368f.wav",
+    "prompt": "high-pitched, cute, rising intonation, ppi-yak?",
+    "negativePrompt": "",
+    "model": "elevenlabs-multilingual-v2",
+    "modelName": "ElevenLabs Multilingual V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": "Lily"
+}

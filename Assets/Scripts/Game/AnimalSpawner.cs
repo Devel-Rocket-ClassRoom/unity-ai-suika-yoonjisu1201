@@ -7,7 +7,7 @@ namespace AnimalMerge
     {
         [Header("Spawn Settings")]
         public float spawnY = 5f;
-        public float wallInnerX = 3f;
+        public float wallInnerX = 4f;
         public float dropCooldown = 0.5f;
         public int guidelineDropLimit = 3;
 

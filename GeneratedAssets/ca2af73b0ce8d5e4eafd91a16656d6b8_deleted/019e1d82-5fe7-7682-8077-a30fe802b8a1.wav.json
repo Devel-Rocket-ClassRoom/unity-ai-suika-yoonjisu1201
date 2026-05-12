@@ -1,0 +1,15 @@
+{
+    "asset": "ca2af73b0ce8d5e4eafd91a16656d6b8",
+    "fileName": "019e1d82-5fe7-7682-8077-a30fe802b8a1.wav",
+    "prompt": "Short, cute, cartoonish rabbit sniffing and tiny squeak, processed game sound, 0.4 seconds long.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

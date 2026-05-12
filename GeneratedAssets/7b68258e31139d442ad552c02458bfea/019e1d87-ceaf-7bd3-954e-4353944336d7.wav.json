@@ -1,0 +1,15 @@
+{
+    "asset": "7b68258e31139d442ad552c02458bfea",
+    "fileName": "019e1d87-ceaf-7bd3-954e-4353944336d7.wav",
+    "prompt": "Short, cute, high-pitched 'pop' or 'ding' sound effect for a casual puzzle game merge. Cartoonish, bubbly, clear and punchy, 0.3 seconds long. No animal sounds, just a clean UI-style merge effect.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

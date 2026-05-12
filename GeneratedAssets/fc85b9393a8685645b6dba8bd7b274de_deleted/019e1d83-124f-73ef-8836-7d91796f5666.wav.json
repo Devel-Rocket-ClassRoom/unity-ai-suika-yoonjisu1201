@@ -1,0 +1,15 @@
+{
+    "asset": "fc85b9393a8685645b6dba8bd7b274de",
+    "fileName": "019e1d83-124f-73ef-8836-7d91796f5666.wav",
+    "prompt": "Short, cute, cartoonish pig oink, processed game sound effect, 0.5 seconds long.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

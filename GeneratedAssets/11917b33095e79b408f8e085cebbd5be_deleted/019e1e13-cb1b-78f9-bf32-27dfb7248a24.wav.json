@@ -1,0 +1,15 @@
+{
+    "asset": "11917b33095e79b408f8e085cebbd5be",
+    "fileName": "019e1e13-cb1b-78f9-bf32-27dfb7248a24.wav",
+    "prompt": "Very short, distinct, cute cartoon pig 'oink' sound, quick double oink, high-pitched, bubbly and stylized, clearly recognizable as a pig but very brief, clean game audio, no background noise",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

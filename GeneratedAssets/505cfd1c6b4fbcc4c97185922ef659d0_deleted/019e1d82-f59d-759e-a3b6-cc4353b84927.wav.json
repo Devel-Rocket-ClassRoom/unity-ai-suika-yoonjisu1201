@@ -1,0 +1,15 @@
+{
+    "asset": "505cfd1c6b4fbcc4c97185922ef659d0",
+    "fileName": "019e1d82-f59d-759e-a3b6-cc4353b84927.wav",
+    "prompt": "Short, cute, cartoonish bear growl, processed game sound effect, 0.6 seconds long.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

@@ -1,0 +1,15 @@
+{
+    "asset": "1ae81deaf3d720a4084ae8d236aa25f4",
+    "fileName": "019e1d82-7164-71a8-86fb-f93de862c0b4.wav",
+    "prompt": "Short, happy, cartoonish shiba inu bark, 'woof', cheerful processed game sound effect, 0.5 seconds long.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

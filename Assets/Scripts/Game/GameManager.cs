@@ -19,6 +19,9 @@ namespace AnimalMerge
         [Header("References")]
         public AnimalSpawner spawner;
         public UIManager uiManager;
+        public AudioClip mergeClip;
+        public AudioClip bgmClip;
+        public GameObject mergeFxPrefab;
 
         private int score;
         private int bestScore;
@@ -42,6 +45,14 @@ namespace AnimalMerge
         private void Start()
         {
             uiManager?.UpdateScore(score, bestScore);
+            if (bgmClip != null)
+            {
+                var src = gameObject.AddComponent<AudioSource>();
+                src.clip = bgmClip;
+                src.loop = true;
+                src.volume = 0.5f;
+                src.Play();
+            }
         }
 
         private void Update()
@@ -100,8 +111,19 @@ namespace AnimalMerge
             }
             uiManager?.UpdateScore(score, bestScore);
 
-            if (sound != null)
-                AudioSource.PlayClipAtPoint(sound, position);
+            AudioClip clip = mergeClip != null ? mergeClip : sound;
+            if (clip != null)
+                AudioSource.PlayClipAtPoint(clip, Camera.main.transform.position);
+
+            if (mergeFxPrefab != null && currentStage >= 4)
+            {
+                var fx = Instantiate(mergeFxPrefab, position, Quaternion.identity);
+                var ps = fx.GetComponent<ParticleSystem>();
+                if (ps != null)
+                    Destroy(fx, ps.main.duration + ps.main.startLifetime.constantMax);
+                else
+                    Destroy(fx, 2f);
+            }
 
             spawner.SpawnMergedAnimal(nextStage, position);
         }

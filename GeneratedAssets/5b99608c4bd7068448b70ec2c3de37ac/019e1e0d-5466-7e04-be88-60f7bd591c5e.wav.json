@@ -1,0 +1,15 @@
+{
+    "asset": "5b99608c4bd7068448b70ec2c3de37ac",
+    "fileName": "019e1e0d-5466-7e04-be88-60f7bd591c5e.wav",
+    "prompt": "A short, cute, stylized female cat meow 'ya-ong', high-pitched, playful, game sound effect, processed for casual mobile game, clean audio",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

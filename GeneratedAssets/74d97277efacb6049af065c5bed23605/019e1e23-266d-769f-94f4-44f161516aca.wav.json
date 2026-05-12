@@ -1,0 +1,15 @@
+{
+    "asset": "74d97277efacb6049af065c5bed23605",
+    "fileName": "019e1e23-266d-769f-94f4-44f161516aca.wav",
+    "prompt": "cute baby chick chirp chirp, ppi-yak ppi-yak, double chirp, cartoonish game sound effect, bright and clear, high quality",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 2.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

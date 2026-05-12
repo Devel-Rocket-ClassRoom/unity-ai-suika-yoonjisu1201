@@ -1,0 +1,15 @@
+{
+    "asset": "bde661545c4476048a44a617e2ed8bfd",
+    "fileName": "019e1e10-d3bd-7a54-bbc3-2fc73433f6f0.wav",
+    "prompt": "A very short, cute, stylized female pig oink 'oink', single syllable, high-pitched, cheerful, game sound effect, processed for casual mobile game, clean audio, no background noise",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

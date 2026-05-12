@@ -1,0 +1,15 @@
+{
+    "asset": "6893f4bfc71d52d47838ec2b3126ccf3",
+    "fileName": "019e1d82-7558-74c2-ba2d-5bb503dd5bb1.wav",
+    "prompt": "Short, high-pitched, cartoonish hamster squeak, processed game sound effect, 0.3 seconds long.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

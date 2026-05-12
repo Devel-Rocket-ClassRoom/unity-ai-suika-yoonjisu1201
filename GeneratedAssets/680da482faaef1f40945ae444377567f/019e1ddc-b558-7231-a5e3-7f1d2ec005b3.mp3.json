@@ -1,0 +1,15 @@
+{
+    "asset": "680da482faaef1f40945ae444377567f",
+    "fileName": "019e1ddc-b558-7231-a5e3-7f1d2ec005b3.mp3",
+    "prompt": "Upbeat and bouncy background music for a casual animal-themed puzzle game. Features playful marimba melodies, cheerful ukulele strumming, and light, energetic percussion. The mood is happy, whimsical, and engaging. Fast but relaxed tempo. Perfect for a merge puzzle game with cute animals. High quality, clear instruments.",
+    "negativePrompt": "",
+    "model": "google-lyria-3-pro",
+    "modelName": "Google Lyria 3 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

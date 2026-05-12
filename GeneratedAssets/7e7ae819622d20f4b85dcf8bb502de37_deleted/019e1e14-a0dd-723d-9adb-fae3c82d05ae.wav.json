@@ -1,0 +1,15 @@
+{
+    "asset": "7e7ae819622d20f4b85dcf8bb502de37",
+    "fileName": "019e1e14-a0dd-723d-9adb-fae3c82d05ae.wav",
+    "prompt": "A person's voice saying 'oink oink' in a very cute, high-pitched cartoonish way, mimicking a pig, short and playful, game sound effect, clean audio",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

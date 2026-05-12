@@ -16,4 +16,5 @@ MonoBehaviour:
   animalName: "\uC2DC\uBC14\uACAC"
   radius: 0.62
   color: {r: 0.8, g: 0.5, b: 0.2, a: 1}
-  mergeSound: {fileID: 0}
+  mergeSound: {fileID: 8300000, guid: 1ae81deaf3d720a4084ae8d236aa25f4, type: 3}
+  sprite: {fileID: -2581625941197162841, guid: 3cf10d82c6a27044484a1767e6f4a808, type: 3}

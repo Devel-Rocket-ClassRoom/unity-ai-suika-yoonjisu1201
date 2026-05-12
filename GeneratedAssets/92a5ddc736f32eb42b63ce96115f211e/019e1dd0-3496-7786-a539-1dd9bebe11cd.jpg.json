@@ -1,0 +1,38 @@
+{
+    "asset": "92a5ddc736f32eb42b63ce96115f211e",
+    "fileName": "019e1dd0-3496-7786-a539-1dd9bebe11cd.jpg",
+    "prompt": "Remove the small white cross-shaped light artifact in the bottom right corner. Ensure the area blends perfectly with the surrounding dark blue and purple space background. Maintain the original resolution and overall style.",
+    "negativePrompt": "",
+    "model": "flux-2-pro",
+    "modelName": "Flux 2 (Pro)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "92a5ddc736f32eb42b63ce96115f211e",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

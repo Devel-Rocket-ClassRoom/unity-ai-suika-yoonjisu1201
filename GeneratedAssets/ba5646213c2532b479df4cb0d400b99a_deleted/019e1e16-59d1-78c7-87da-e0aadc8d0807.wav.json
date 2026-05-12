@@ -1,0 +1,15 @@
+{
+    "asset": "ba5646213c2532b479df4cb0d400b99a",
+    "fileName": "019e1e16-59d1-78c7-87da-e0aadc8d0807.wav",
+    "prompt": "A person's cute voice clearly pronouncing 'Kkul-kkul' (Korean for oink-oink), high-pitched, cheerful, stylized for a mobile game, very short and crisp, mimicry of a pig, clean audio, no noise",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

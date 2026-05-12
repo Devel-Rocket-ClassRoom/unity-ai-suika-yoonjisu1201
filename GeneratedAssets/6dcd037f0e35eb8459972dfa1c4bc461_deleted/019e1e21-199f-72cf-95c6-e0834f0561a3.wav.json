@@ -1,0 +1,15 @@
+{
+    "asset": "6dcd037f0e35eb8459972dfa1c4bc461",
+    "fileName": "019e1e21-199f-72cf-95c6-e0834f0561a3.wav",
+    "prompt": "삐약",
+    "negativePrompt": "",
+    "model": "elevenlabs-multilingual-v2",
+    "modelName": "ElevenLabs Multilingual V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": "Lily"
+}

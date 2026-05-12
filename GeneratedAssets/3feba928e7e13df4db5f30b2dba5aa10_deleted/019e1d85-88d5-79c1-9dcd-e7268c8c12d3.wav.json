@@ -1,0 +1,15 @@
+{
+    "asset": "3feba928e7e13df4db5f30b2dba5aa10",
+    "fileName": "019e1d85-88d5-79c1-9dcd-e7268c8c12d3.wav",
+    "prompt": "Extremely short, single-syllable, cute cartoonish pig oink, 'kkul', processed game sound effect, sharp and punchy, 0.2 seconds long.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

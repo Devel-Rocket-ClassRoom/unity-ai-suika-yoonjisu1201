@@ -1,0 +1,15 @@
+{
+    "asset": "d11f4b1f80a79114cb448d73ead333aa",
+    "fileName": "019e1d79-d1fa-7735-9eae-77c7ce90d94b.mp3",
+    "prompt": "A cozy, relaxing, and warm acoustic background track for a 2D forest camping game. Gentle acoustic guitar, light percussion, peaceful sunset atmosphere. Seamlessly loopable, instrumental, soothing.",
+    "negativePrompt": "",
+    "model": "google-lyria-3-clip",
+    "modelName": "Google Lyria 3 Clip",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 30.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

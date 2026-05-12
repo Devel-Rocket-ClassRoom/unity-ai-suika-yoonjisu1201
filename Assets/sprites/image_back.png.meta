@@ -1,10 +1,12 @@
 fileFormatVersion: 2
-guid: cb42580c03473064eadce741eb5725bb
+guid: 92a5ddc736f32eb42b63ce96115f211e
+labels:
+- UnityAI
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1775468593384120172
-    second: image_back_0
+      213: -9202967066326831016
+    second: Image_back_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,27 +98,40 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: image_back_0
+      name: Image_back_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 2872
-        height: 1472
+        width: 1024
+        height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c6fd582674bb3a810800000000000000
-      internalID: 1775468593384120172
+      spriteID: 85078fb663e784080800000000000000
+      internalID: -9202967066326831016
       vertices: []
       indices: 
       edges: []
@@ -125,7 +140,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 56fc6f2c3eb1ff245a5cf4deb2ccb5d8
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +150,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      image_back_0: 1775468593384120172
+      Image_back_0: -9202967066326831016
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

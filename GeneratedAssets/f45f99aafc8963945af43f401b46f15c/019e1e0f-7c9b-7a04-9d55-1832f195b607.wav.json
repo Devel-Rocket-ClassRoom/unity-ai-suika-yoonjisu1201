@@ -1,0 +1,15 @@
+{
+    "asset": "f45f99aafc8963945af43f401b46f15c",
+    "fileName": "019e1e0f-7c9b-7a04-9d55-1832f195b607.wav",
+    "prompt": "A short, cute, stylized female sheep bleat 'baa', high-pitched, cheerful, game sound effect, processed for casual mobile game, clean audio, no background noise",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

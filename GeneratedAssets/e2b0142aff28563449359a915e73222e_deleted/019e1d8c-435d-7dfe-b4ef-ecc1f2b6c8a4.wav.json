@@ -1,0 +1,15 @@
+{
+    "asset": "e2b0142aff28563449359a915e73222e",
+    "fileName": "019e1d8c-435d-7dfe-b4ef-ecc1f2b6c8a4.wav",
+    "prompt": "Short, cute, high-pitched 'sparkle' or 'twinkle' sound effect for a casual puzzle game. Cartoonish, magical, clear, 0.4 seconds long. Non-animal sound.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

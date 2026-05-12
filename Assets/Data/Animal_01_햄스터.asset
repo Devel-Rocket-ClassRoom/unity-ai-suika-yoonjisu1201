@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::AnimalMerge.AnimalData
   stage: 1
   animalName: "\uD584\uC2A4\uD130"
-  radius: 0.25
+  radius: 0.2
   color: {r: 1, g: 0.7, b: 0.5, a: 1}
-  mergeSound: {fileID: 0}
-  sprite: {fileID: 21300000, guid: 9830a17c1c85ad048a10df2484788e6a, type: 3}
+  mergeSound: {fileID: 8300000, guid: 6893f4bfc71d52d47838ec2b3126ccf3, type: 3}
+  sprite: {fileID: 845169110449773721, guid: 82adba2f5c042d248a35e1d2ef0da682, type: 3}

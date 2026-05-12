@@ -1,0 +1,15 @@
+{
+    "asset": "4298e227954e8644c89c51c77b550bdc",
+    "fileName": "019e1e1e-a233-7369-883e-b41ae441a484.wav",
+    "prompt": "cute, short, game-style stylized chick chirp sound effect, single shot, ppi-yak",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

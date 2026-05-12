@@ -1,0 +1,15 @@
+{
+    "asset": "8629eef7e6298ba4da1dc07be2e55095",
+    "fileName": "019e1d81-5cf4-7994-92bf-0687ede5daa6.wav",
+    "prompt": "Short, sweet, cartoonish kitten meow sound effect, 'meow', processed game sound, clear and sweet, 0.5 seconds long.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

@@ -1,0 +1,15 @@
+{
+    "asset": "0dfa585e4ba49b24a885d33c3c943305",
+    "fileName": "019e1d7f-0a40-7dc2-b325-484e6016779f.wav",
+    "prompt": "A cute, friendly 'meow' of a kitten, short and sweet.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 2.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

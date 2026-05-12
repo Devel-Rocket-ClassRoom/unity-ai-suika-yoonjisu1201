@@ -1,0 +1,15 @@
+{
+    "asset": "48754de227263a9439519a9b5fd2d0d3",
+    "fileName": "019e1ddf-bdca-705e-974e-f997801353c4.mp3",
+    "prompt": "Full-length structured background music for a casual animal-themed puzzle game. Upbeat, bouncy, and energetic. Instrumentation: Marimba, ukulele, light acoustic drums, and whimsical synth accents. 120 BPM, C Major, happy and cheerful mood. Structured with intro, main theme, and variation. Loopable and engaging for long play sessions. Not too calm, high energy.",
+    "negativePrompt": "",
+    "model": "google-lyria-3-pro",
+    "modelName": "Google Lyria 3 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

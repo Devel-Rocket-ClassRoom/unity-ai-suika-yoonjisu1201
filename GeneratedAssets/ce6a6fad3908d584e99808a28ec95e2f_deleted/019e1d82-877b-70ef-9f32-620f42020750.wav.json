@@ -1,0 +1,15 @@
+{
+    "asset": "ce6a6fad3908d584e99808a28ec95e2f",
+    "fileName": "019e1d82-877b-70ef-9f32-620f42020750.wav",
+    "prompt": "Short, cute, cartoonish sheep bleat, 'baa', processed game sound, 0.5 seconds long.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

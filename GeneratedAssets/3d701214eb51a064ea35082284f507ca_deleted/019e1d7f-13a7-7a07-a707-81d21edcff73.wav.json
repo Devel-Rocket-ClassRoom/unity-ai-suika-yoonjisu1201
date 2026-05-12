@@ -1,0 +1,15 @@
+{
+    "asset": "3d701214eb51a064ea35082284f507ca",
+    "fileName": "019e1d7f-13a7-7a07-a707-81d21edcff73.wav",
+    "prompt": "A soft, cute rabbit sniffing and light squeaking sound, short and gentle.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 2.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

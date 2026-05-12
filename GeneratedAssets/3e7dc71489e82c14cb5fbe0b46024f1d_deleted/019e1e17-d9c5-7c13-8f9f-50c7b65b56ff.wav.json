@@ -1,0 +1,15 @@
+{
+    "asset": "3e7dc71489e82c14cb5fbe0b46024f1d",
+    "fileName": "019e1e17-d9c5-7c13-8f9f-50c7b65b56ff.wav",
+    "prompt": "A very short, organic pig oink sound, natural pig grunt, quick and punchy, stylized for a game but clearly an animal sound, high-pitched for cuteness, clean audio, no background noise, no human voice mimicry",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

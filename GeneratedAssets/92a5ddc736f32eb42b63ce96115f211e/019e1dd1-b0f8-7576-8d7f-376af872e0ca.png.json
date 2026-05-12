@@ -1,0 +1,38 @@
+{
+    "asset": "92a5ddc736f32eb42b63ce96115f211e",
+    "fileName": "019e1dd1-b0f8-7576-8d7f-376af872e0ca.png",
+    "prompt": "Remove the small white cross-shaped light artifact located at the very bottom right corner. The area should blend naturally with the surrounding dark green bushes and shadows of the forest scene. Keep the original resolution and hand-painted art style exactly the same.",
+    "negativePrompt": "",
+    "model": "gpt-image-1-5",
+    "modelName": "GPT Image 1.5",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "92a5ddc736f32eb42b63ce96115f211e",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}
