@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__unity-mcp__Unity_RunCommand",
+      "mcp__unity-mcp__Unity_GetConsoleLogs",
+      "mcp__unity-mcp__Unity_Camera_Capture",
+      "mcp__unity-mcp__Unity_SceneView_Capture2DScene",
+      "mcp__unity-mcp__Unity_SceneView_CaptureMultiAngleSceneView",
+      "mcp__unity-mcp__Unity_AssetGeneration_GenerateAsset",
+      "mcp__unity-mcp__Unity_AssetGeneration_GetModels"
+    ]
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "shell": "bash",
+            "command": "python3 -c \"\nimport sys,json,subprocess,os\nd=json.load(sys.stdin)\nf=d.get('tool_input',{}).get('file_path','')\nif f.endswith('.cs'):\n    env=os.environ.copy()\n    env['PATH']=env.get('PATH','')+os.pathsep+os.path.expanduser('~/.dotnet/tools')\n    subprocess.run(['csharpier','format',f],env=env)\n\" 2>/dev/null || true",
+            "statusMessage": "CSharpier 포맷 중..."
+          }
+        ]
+      }
+    ]
+  }
+}
